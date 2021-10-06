@@ -1,0 +1,11 @@
+.collection {
+    width: 600px;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.input-task input {
+    width: 400px;
+}
